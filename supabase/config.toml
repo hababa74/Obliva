@@ -1,0 +1,7 @@
+project_id = "obliva"
+
+[functions.chat]
+verify_jwt = true
+
+[functions.scan]
+verify_jwt = true
